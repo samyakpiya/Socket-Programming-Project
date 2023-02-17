@@ -15,7 +15,11 @@ This script requires the following dependencies to be installed:
 * json
 * time
 
-These dependencies can be installed using pip.
+You can install these libraries using the following command:
+
+```bash
+pip install socket threading os pathlib datetime tabulate pickle json
+```
 
 ## Usage
 The server can be started by running the server.py script.
