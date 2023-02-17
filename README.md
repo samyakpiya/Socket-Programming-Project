@@ -14,7 +14,7 @@ This script requires the following dependencies to be installed:
 * pickle
 * json
 * time
-* 
+
 These dependencies can be installed using pip.
 
 ## Usage
